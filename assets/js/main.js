@@ -12,7 +12,7 @@
 
   /*=====================================
     Sticky
-    ======================================= */
+    ======================================== */
   window.onscroll = function () {
     const header_navbar = document.querySelector(".navbar-area");
     const sticky = header_navbar.offsetTop;
